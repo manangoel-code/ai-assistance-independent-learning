@@ -1,0 +1,28 @@
+{
+  "status": "passed",
+  "checks": [
+    "Pinned source checksum",
+    "Analysis sample is 2848 records, 825 students, 44 classes",
+    "Student session pairs are unique",
+    "Scores are in zero to one range",
+    "One arm per classroom and no overlapping treatments",
+    "Regenerated CSV matches supplied result: classroom_influence.csv",
+    "Regenerated CSV matches supplied result: descriptive_statistics.csv",
+    "Regenerated CSV matches supplied result: equivalence_sensitivity.csv",
+    "Regenerated CSV matches supplied result: extended_specifications.csv",
+    "Regenerated CSV matches supplied result: gpa_interactions.csv",
+    "Regenerated CSV matches supplied result: regression_results.csv",
+    "Regenerated CSV matches supplied result: session_estimates.csv",
+    "Regenerated CSV matches supplied result: wild_cluster_bootstrap.csv",
+    "Full design has 35 columns and full rank",
+    "Part2Tot GPTBase coefficient, clustered SE, CI and p agree with statsmodels",
+    "Part2Tot GPTTutor coefficient, clustered SE, CI and p agree with statsmodels",
+    "Part3Tot GPTBase coefficient, clustered SE, CI and p agree with statsmodels",
+    "Part3Tot GPTTutor coefficient, clustered SE, CI and p agree with statsmodels",
+    "Holm correction agrees with library implementation",
+    "Vectorized bootstrap t agrees with 24 separate statsmodels fits for GPTBase",
+    "Vectorized bootstrap t agrees with 24 separate statsmodels fits for GPTTutor",
+    "TOST decisions match 90 percent interval criterion"
+  ],
+  "scope": "Python data download, main and extended analyses; independent primary and bootstrap numerical cross-checks. Not proof of scientific validity or universal portability."
+}

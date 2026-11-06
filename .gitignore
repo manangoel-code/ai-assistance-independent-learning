@@ -1,0 +1,26 @@
+# Source data belong to the original researchers; download_data.py fetches them.
+research_data/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+~$*.docx
+
+# Local-only files
+graphify-out/
+paper/*.docx

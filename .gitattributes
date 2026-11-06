@@ -1,0 +1,6 @@
+# Keep result files byte-for-byte as committed.
+*.csv  -text
+*.json -text
+*.png  binary
+*.pdf  binary
+*.docx binary

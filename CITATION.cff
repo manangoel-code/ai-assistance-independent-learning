@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper and the original study by Bastani et al. (2025)."
+title: "AI-Assisted Mathematics Practice and Subsequent Examination Performance: A Reproducibility and Sensitivity Analysis"
+authors:
+  - family-names: Goel
+    given-names: Manan
+date-released: 2026-10-17
+type: software
+references:
+  - type: article
+    title: "Generative AI without guardrails can harm learning: Evidence from high school mathematics"
+    authors:
+      - family-names: Bastani
+        given-names: Hamsa
+      - family-names: Bastani
+        given-names: Osbert
+      - family-names: Sungu
+        given-names: Alp
+      - family-names: Ge
+        given-names: Haosen
+      - family-names: Kabakcı
+        given-names: Özge
+      - family-names: Mariman
+        given-names: Rei
+    journal: "Proceedings of the National Academy of Sciences"
+    volume: 122
+    issue: 26
+    year: 2025
+    doi: 10.1073/pnas.2422633122

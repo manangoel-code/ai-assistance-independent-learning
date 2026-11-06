@@ -1,0 +1,26 @@
+{
+  "raw_rows": 3255,
+  "raw_students": 943,
+  "raw_classes": 50,
+  "nonhonors_rows": 2899,
+  "nonhonors_students": 839,
+  "nonhonors_classes": 44,
+  "complete_rows": 2848,
+  "complete_students": 825,
+  "complete_classes": 44,
+  "excluded_missing": 51,
+  "missing_by_variable": {
+    "Part2Tot": 0,
+    "Part3Tot": 0,
+    "GPTBase": 0,
+    "GPTTutor": 0,
+    "gpa_prev": 50,
+    "teacher": 0,
+    "Session": 0,
+    "Grader": 1,
+    "Year": 0,
+    "Class": 0
+  },
+  "duplicates": 0,
+  "sha256": "430055b4633eaaf87879bb38eb4b1c9425b91e1d7f529029dc1883e33d91df0a"
+}
