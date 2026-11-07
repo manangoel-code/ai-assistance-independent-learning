@@ -4,7 +4,7 @@ Analysis code and results for the paper
 
 > **AI-Assisted Mathematics Practice and Subsequent Examination Performance: A Reproducibility and Sensitivity Analysis**
 > *A reproducible secondary analysis of a classroom mathematics experiment*
-> Manan Goel, October 2026. [Read the paper (PDF)](paper/AI_Assistance_and_Independent_Learning.pdf)
+> Manan Goel. [Read the paper (PDF)](paper/AI_Assistance_and_Independent_Learning.pdf)
 
 This is a secondary analysis of the field experiment by Bastani et al. (2025). Students at a Turkish high school
 practised mathematics with no AI, a GPT-based AI assistant or a tutor with built-in learning safeguards, and then
